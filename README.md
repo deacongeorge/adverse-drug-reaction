@@ -1,4 +1,6 @@
-Prediction of serious drug reaction (fatality) to drug product user. This is the most serious type of drug adverse event as it is an
+Prediction of serious drug reaction (fatality) to drug product user.
+
+This is the most serious type of drug adverse event as it is an
 irreparable loss.The sample data used for this predictive modelling was obtained from the United States of America
 federal drug agency database. The database contains reports of drug adverse events which occured in various countries of
 the world. A total of 92130 drug adverse reports were extracted from the database with selected 52 attributes of the
