@@ -1,12 +1,12 @@
-Prediction of serious drug reaction (fatality) to drug product user.
+# Adverse Drug Reaction
 
-This is the most serious type of drug adverse event as it is an
-irreparable loss.The sample data used for this predictive modelling was obtained from the United States of America
+# Introduction
+The purpose of this project is to predict drug users whose adverse drug reaction will lead to fatality.
+The sample data used for this predictive modelling was obtained from the United States of America
 federal drug agency database. The database contains reports of drug adverse events which occured in various countries of
-the world. A total of 92130 drug adverse reports were extracted from the database with selected 52 attributes of the
-each reported events.
+the world. A total of 92130 drug adverse reports were extracted from the database with selected 52 attributes of each reported events.
 
-The main insights gained from this project are. 
+# The main insights gained from this project are. 
 1. The most important features of samples which had fatal drug adverse effect
 2. The Predictive model which gives the best performance in prediction of fatal drug adverse reaction 
 
