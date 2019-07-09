@@ -6,7 +6,7 @@ The sample data used for this predictive modelling was obtained from the United 
 federal drug agency database. The database contains reports of drug adverse events which occured in various countries of
 the world. A total of 92130 drug adverse reports were extracted from the database with selected 52 attributes of each reported events.
 
-# The main insights gained from this project are. 
+# The main insights gained from this project. 
 1. The most important features of samples which had fatal drug adverse effect
 2. The Predictive model which gives the best performance in prediction of fatal drug adverse reaction 
 
