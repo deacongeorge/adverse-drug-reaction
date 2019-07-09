@@ -11,7 +11,7 @@ The main insights gained from this project are.
 2. The Predictive model which gives the best performance in prediction of fatal drug adverse reaction 
 
 The model pipeline was developed using the following stages of model development
-1. Data Import, Quality control and Dat
+1. Data Import and Quality control
 2. Descriptive statistics
 3. Exploratory data analysis and visualisation
 4. Feature engineering and extraction
